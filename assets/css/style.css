@@ -29,13 +29,13 @@ body {
 #subcontainer h3 {
 	color:white;
 	font-size: 30px;
-	border: solid;
 }
 
 h1 {
+	font-family: 'Galada', cursive;
 	font-size: 75px;
 	font-weight: bold;
-	color: rgb(207, 5, 174);
+	color:white;
 	padding: 10px 0px 10px 0px;
 	margin: 0px 0px 50px 0px;
 }
